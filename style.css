@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    padding: 12px;
+    padding: 12px 0px;
     background-color: #1f2937;
 }
 
@@ -43,10 +43,7 @@ ul {
 .hero-container {
     display: flex;
     justify-content: center;
-    padding-top: 60px;
-    padding-left: 12%;
-    padding-right: 12%;
-    padding-bottom: 60px;
+    padding: 60px 12%;
     gap: 36px;
 }
 
