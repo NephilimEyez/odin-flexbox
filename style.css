@@ -133,3 +133,37 @@ button.signup {
     font-weight: bolder;
     align-self: flex-end;
 }
+
+h3 {
+    margin: 0px;
+}
+
+.sign-up-banner {
+    background-color: #3882F6;
+    justify-content: space-around;
+    border-radius: 5px;
+    margin: 60px 16%;
+    padding: 2em;
+    color: #f9faf8;
+}
+
+.cta-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-text p {
+    margin: 0px;
+}
+
+.sign-up-banner .button-container .signup {
+    border-color: #f9faf8;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: .8em 0px;
+}
